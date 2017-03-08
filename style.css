@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+}
+
+#recognize {
+    display: block;
+    margin: 20px auto;
+    font-size: 200%;
+}
+
+#response {
+    margin: 20px;
+    font-size: 200%;
+}
+
+#question {
+    font-size: 150%;
+    width: 500px;
+    max-width: 100%;
+}
+
+#footer {
+    margin-top: 50px;
+}
+
+a {
+    color: #33f;
+    border-bottom: 1px dashed #f3f;
+    text-decoration: none;
+}
+
+a:hover {
+    border-bottom-style: solid;
+}
